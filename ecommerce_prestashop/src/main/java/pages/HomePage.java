@@ -23,7 +23,7 @@ public class HomePage {
 	
 	private By botaoSignIn  = By.cssSelector("#_desktop_user_info span.hidden-sm-down");
 	
-	private By usuarioLogado = By.cssSelector(".account span");
+	private By usuarioLogado = By.cssSelector("#_desktop_user_info span.hidden-sm-down");
 	
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
