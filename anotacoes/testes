@@ -1,0 +1,19 @@
+Desempenho - Apache JMeter
+Compatibilidade - SwaggerDiff
+API Rest - Insomnia / RestAssured
+Teste de unidade - JUnit
+Mocks - Mountebank / Mockable.io
+UI - Appium / WebDriver
+
+Heuristicas de teste - VADER 
+	Verbs
+	Auth...
+	Data
+	Errors
+	Responsiviness
+	
+Tipos de teste : funcional e não funcional
+Tecnicas: caixa preta e caixa branca
+
+Riscos
+
