@@ -15,8 +15,8 @@ Palestrante: Fernando Ruano
 <P>Mas seu papel é informar sobre todos os problemas encontrados
 
 ### 5. Comprometido X Envolvido: 
-<P>**Envolvido**: ta la só pelo dinheiro, faz o que é seu, e não o que é do time
-<P>**Comprometido**: envolve com tudo que é do time, faz pelo projeto
+<P>Envolvido: ta la só pelo dinheiro, faz o que é seu, e não o que é do time
+<P>Comprometido: envolve com tudo que é do time, faz pelo projeto
 
 ### 6. Autogerenciamento: 
 ### 7. Comunicação Verbal e Não Verbal: 

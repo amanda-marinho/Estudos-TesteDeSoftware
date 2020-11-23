@@ -17,13 +17,13 @@
 ### 3. a 10.:
 	Os 7 fundamentos do Teste - ISTQB
 ### 11. Diferença entre Teste e QA:
-<p>**Tester**: realiza teste, foco no produto
-<p>**QA**: busca melhorias de processos, foco na qualidade dos processos
+<p>Tester:realiza teste, foco no produto
+<p>QA: busca melhorias de processos, foco na qualidade dos processos
 
 ### 12. Erro, Ocorrência, Defeito e Falha:
-<p>**Erro**: engano do desenvolvedor
-<p>**Defeito**: bug na fase de teste
-<p>**Falha**: resultado do defeito, em tempo de execução
+<p>Erro: engano do desenvolvedor
+<p>Defeito: bug na fase de teste
+<p>Falha: resultado do defeito, em tempo de execução
 <p>Para não dizer que encontramos defeitos, dizemos que há uma ocorrência, e quando há a confirmação de que há algo errado podemos chamar de defeito
 <p>
 
@@ -82,6 +82,7 @@
 	Auditavel: possível de conferir logs
 	Prestação de contas:
 <p>Autenticidade
+
 ### 22. Testes Manuais X Testes Automatizados:
 <p>Os dois ainda são utilizados
 
